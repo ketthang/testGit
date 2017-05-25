@@ -1,4 +1,8 @@
 nothing to do
+<<<<<<< HEAD
 change 1
 chang 2 nhu lon
 change 3
+=======
+change 1
+>>>>>>> parent of 89a6db7... thay doi lan 2
